@@ -1,9 +1,9 @@
 # Minecraft-Shared-Health
 Minecraft Plugin, that share your hp for all players at the Server.
 
-#Versions
+# Versions
 Now support only 1.19.2
-#Cores
+# Cores
 Now support only Paper
 
 You can help project - Make more versions and cores!
