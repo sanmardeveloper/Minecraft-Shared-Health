@@ -1,0 +1,4 @@
+name: Challenge1
+version: '${project.version}'
+main: com.sanmar.challenge1.Challenge1
+api-version: '1.19'
