@@ -1,0 +1,4 @@
+messages:
+  damage: "Damage from another player - {amount}"
+  death: "Death from another player!"
+  heal: "Heal from another player - {amount}"
